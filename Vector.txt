@@ -1,3 +1,4 @@
 Vector:
         1. (Vector II)  https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP2_1_D
         2. (A. Sereja and Dima)  https://codeforces.com/problemset/problem/381/A
+        3. (1502. Can Make Arithmetic Progression From Sequence) https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/description/
