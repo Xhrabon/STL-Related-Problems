@@ -1,3 +1,4 @@
 Stack:
         1. https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP2_2_A
         2. (Neat Brackets) https://toph.co/p/neat-brackets
+        3. (Discover the web) https://lightoj.com/problem/discover-the-web
