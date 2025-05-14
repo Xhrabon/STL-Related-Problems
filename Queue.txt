@@ -2,3 +2,5 @@ Queue:
       1. (Queueez) https://www.spoj.com/problems/QUEUEEZ/
       2. (Queue) https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP2_2_B
       3. (Reverse first K of a Queue) https://www.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1
+
+Deque Implementations https://www.geeksforgeeks.org/problems/deque-implementations/1
