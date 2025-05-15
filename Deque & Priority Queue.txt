@@ -1,0 +1,6 @@
+Deque & Priority Queue:
+                        1. https://practice.geeksforgeeks.org/problems/deque-implementations/1
+                        2. https://codeforces.com/contest/799/problem/B
+                        3. https://www.hackerearth.com/practice/data-structures/trees/heapspriority-queues/practice-problems/algorithm/monk-and-multiplication/description/
+                        4. https://www.hackerearth.com/practice/data-structures/trees/heapspriority-queues
+                        5. https://www.spoj.com/problems/REDARR2/
