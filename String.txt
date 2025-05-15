@@ -3,6 +3,6 @@ String:
         2. https://www.hackerearth.com/problem/algorithm/the-palindrome-2/description/
         3. https://www.geeksforgeeks.org/problems/sum-of-digit-is-pallindrome-or-not2751/1
         4. https://codeforces.com/contest/112/problem/A
-        5. https://codeforces.com/contest/78/problem/A
+        5. (A. Haiku) https://codeforces.com/contest/78/problem/A
         6. https://www.hackerearth.com/problem/algorithm/lexogeek-e6450fb7/description/
         7. https://www.hackerearth.com/problem/algorithm/lexogeek-e6450fb7/
